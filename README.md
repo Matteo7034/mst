@@ -3,6 +3,7 @@
 ## Requirements
 - make
 - gcc
+- Terminus Font
 
 ## installaation:
 ```
