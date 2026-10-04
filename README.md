@@ -1,13 +1,13 @@
 # St configuration
 
 ## Requirements
-- curl
-- unzip
+- make
+- gcc
+- Terminus Font
 
 ## installaation:
 ```
-~/mst/scripts/jetbrains.sh
-cd /mst
+cd ~/mst
 sudo make clean install
 ```
 
